@@ -46,3 +46,4 @@ incomeBtn.addEventListener("click", () => {
 expenseBtn.addEventListener("click", () => {
     addTransaction("expense");
 });
+
